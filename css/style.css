@@ -104,7 +104,6 @@ body {
 
 .hero {
     min-height: 100vh;
-    background: url('../assets/images/grass-bg.jpg') center/cover no-repeat;
     display: flex;
     align-items: center;
     padding-top: 80px;
